@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="favian_zhafif">Favian Zhafif A.</string>
+    <string name="welcome_back">Welcome Back ,</string>
+    <string name="find_something">Find Something</string>
+    <string name="your_course">Your Course</string>
+    <string name="_14_course">14 Course</string>
+    <string name="task_schedule">Task Schedule</string>
+    <string name="you_have_5_task_to_do">You have 5 task to do</string>
+    <string name="daily_programming_tests">Daily Programming Tests</string>
+    <string name="_21st_march_2021">21st March 2021|</string>
+    <string name="_07_00_07_45">07.00 - 07.45</string>
+    <string name="_20th_march_2021">20th March 2021 |</string>
+    <string name="_13_00_14_00">13.00 - 14.00</string>
+    <string name="graphic_design">Graphic Design</string>
+    <string name="web_design">Web Design</string>
+    <string name="design_project">Design Project</string>
+    <string name="additional_class_program">Additional Class Program</string>
+</resources>
